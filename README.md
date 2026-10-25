@@ -24,4 +24,4 @@ uzmanlaşmayı hedefliyorum. Askeri robotik ve aviyonik yazılımlar
 C · Git · GitHub · KiCad · 
 
 ## İletişim
-LinkedIn:
+LinkedIn:linkedin.com/in/yusuf-veran-8389b3218
