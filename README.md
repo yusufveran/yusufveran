@@ -18,7 +18,7 @@ uzmanlaşmayı hedefliyorum. Askeri robotik ve aviyonik yazılımlar
 - **4. yıl:** MISRA C, DO-178C, bitirme projesi
 
 ## Projelerim
-- şu an ilk projem üzerinde çalışıyorum hazır olunca burada olacak
+- Mind ,hala geliştirme aşamasında
 
 ## Kullandığım araçlar
 C · Git · GitHub · KiCad · 
